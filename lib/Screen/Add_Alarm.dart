@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:alaram/Provider/Provier.dart';
+import 'package:alarm/Provider/Provier.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -117,7 +117,7 @@ class _AddAlaramState extends State<AddAlarm> {
 
                 Navigator.pop(context);
               },
-              child: Text("Set Alaram")),
+              child: Text("Set Alarm")),
         ],
       ),
     );

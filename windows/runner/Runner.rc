@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "alaram" "\0"
+            VALUE "FileDescription", "alarm" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "alaram" "\0"
+            VALUE "InternalName", "alarm" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "alaram.exe" "\0"
-            VALUE "ProductName", "alaram" "\0"
+            VALUE "OriginalFilename", "alarm.exe" "\0"
+            VALUE "ProductName", "alarm" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

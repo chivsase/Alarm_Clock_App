@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:alaram/Model/Model.dart';
-import 'package:alaram/Provider/Provier.dart';
-import 'package:alaram/Screen/Add_Alarm.dart';
+import 'package:alarm/Model/Model.dart';
+import 'package:alarm/Provider/Provier.dart';
+import 'package:alarm/Screen/Add_Alarm.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
